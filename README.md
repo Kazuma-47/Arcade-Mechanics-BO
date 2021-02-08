@@ -1,8 +1,8 @@
 "# Arcade-Mechanics-BO" 
 
-João Jubitana
-Sam Derakhshandeh
-Nikay Klidas
+João Jubitana, 
+Sam Derakhshandeh, 
+Nikay Klidas, 
 George Fritz
 
 trello: https://trello.com/b/QMBw8UTB/arcade-mechanics-bo 
