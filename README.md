@@ -23,8 +23,8 @@ Geluiden zoeken -Nikay\
 Engine integratie -Sam Joao
 
 tijden standups:
-maandag 9:50 
-dinsdag tussen 15:15 en 16:00                            
+maandag 9:50 \
+dinsdag tussen 15:15 en 16:00\                            
 woensdag 11:00                                                    
 donderdag 10:45                                                   
 vrijdag 15:15 en 16:00 
