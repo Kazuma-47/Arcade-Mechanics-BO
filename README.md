@@ -5,12 +5,19 @@ Sam Derakhshandeh,\
 Nikay Klidas,\
 George Fritz,
 
-trello: https://trello.com/b/QMBw8UTB/arcade-mechanics-bo 
+Trello: https://trello.com/b/QMBw8UTB/arcade-mechanics-bo 
 
-github: https://github.com/Kazuma-47/Arcade-Mechanics-BO 
+Github: https://github.com/Kazuma-47/Arcade-Mechanics-BO 
 
-info game:\
+Info game:\
 Deze game is een avontuurlijke space invaders editie.\
 We maken de game geweldig en beter dan eerst.\
 Dit wordt een revolutie voor de Arcade Gaming markt.
 
+Taken:\
+Mechanic programmeren - Sam Joao\
+Art assets en animaties maken - Nikay George\
+Particles maken -George\
+Game en level design -Nikay en George\
+Geluiden zoeken -Nikay\
+Engine integratie -Sam Joao
