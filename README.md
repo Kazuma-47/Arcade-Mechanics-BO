@@ -23,5 +23,5 @@ Geluiden zoeken -Nikay\
 Engine integratie -Sam Joao
 
 tijden standups:\
-maandag /dinsdag tijdens de BO lessen.
+maandag /dinsdag tijdens de BO lessen.\
 11:00am                      
