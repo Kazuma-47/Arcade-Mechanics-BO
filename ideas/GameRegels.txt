@@ -1,0 +1,15 @@
+(Dit zijn speciale extra regels die horen bij het balanceren en verbeteren van de game)
+
+THE PLAYFIELD:
+-Er is een onzichtbare barriere waar de enemies in spawnen boven de players spawn locatie om te voorkomen dat ze vlak naast of OP de player spawnen.
+-Enemies kunnen NIET buiten de barriere spawnen of bewegen. Ze moeten binnen de onzichtbare lijnen blijven.
+-De onzichtbare barriere telt NIET voor de "Boomer" enemy
+
+THE PLAYER:
+-Laser heeft 30 seconden cooldown en blijft aan voor 5 seconden (?)
+-Bullet hoze Schiet cooldown (50% minder) + 25 damage per kogel (?)
+-Bullet hoze duurt 10 seconden en heeft een cooldown van 35 seconden (?)
+-Plasma shield duurt 6 seconden en de cooldown is 60 seconden (?)
+
+RANGER:
+-De Ranger moet 3 seconden chargen (stilstaan op zijn plek) Voordat hij schiet
