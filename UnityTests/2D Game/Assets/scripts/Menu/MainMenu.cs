@@ -7,9 +7,20 @@ public class MainMenu : MonoBehaviour
 {
     public GameObject Optionmenu;
     public GameObject Mainmenu;
+    public GameObject GameChoice;
     public void Play()
     {
-        SceneManager.LoadScene("game");  
+        GameChoice.SetActive(true);
+        //SceneManager.LoadScene("game");
+        Mainmenu.SetActive(false);
+    }
+    public void ChoiceClassic()
+    {
+        SceneManager.LoadScene("Classic");
+    }
+    public void ChoiceModern()
+    {
+        SceneManager.LoadScene("Modern");
     }
     public void Options()
     {
