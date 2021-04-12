@@ -1,0 +1,44 @@
+Player Stats:
+-Health: 1500
+-Damage: 100
+-Laser: 25 damage (Per tick)
+-Speed: Slow/Medium
+
+(Light) Rookie Stats:
+-Health: 100
+-Damage: 20 (Per barrel) 40 (Beide barrels)
+-Speed: Slow/Medium
+
+(Light) Ranger Stats:
+-Health: 75
+-Damage: 120
+-Charge time: 3 OF 5 seconden (?)
+-Speed: Fast
+
+(Medium) Boomer Stats:
+-Health: 400 (?)
+-Damage: 200 (?)
+-Speed: Slow
+
+(Medium) Warrior Stats:
+-Health: 250
+-Damage: 20 (Kleine guns) 40 (Grote guns)
+-Speed: Medium
+
+(Large) Meatball Stats:
+-Health: 400
+-Armor lichaam: 50% (Dus je doet 50 damage in plaats van 100)
+-Armor puist: 0% (Dus je doet 100 damage)
+-Damage: GEEN
+-Speed: Super Slow/Slow
+
+(Large) Carrier Stats:
+-Health: 800
+-Damage: 30
+-Spawn cap: 6 Drones
+-Speed: Slow
+
+(Mini) Carrier-Drone Stats:
+-Health: 25
+-Damage: 10
+-Speed: Slow/Medium (?)
