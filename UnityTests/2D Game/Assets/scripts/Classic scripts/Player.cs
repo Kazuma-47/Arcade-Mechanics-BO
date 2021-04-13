@@ -66,5 +66,9 @@ public class Player : MonoBehaviour
         {
             projectileClone = Instantiate(projectile, new Vector3(player.transform.position.x, player.transform.position.y + 0.6f, 0), player.transform.rotation) as GameObject;
         }
+        if (Input.GetMouseButtonDown(0))
+        {
+            projectileClone = Instantiate(projectile, new Vector3(player.transform.position.x, player.transform.position.y + 0.6f, 0), player.transform.rotation) as GameObject;
+        }
     }
 }

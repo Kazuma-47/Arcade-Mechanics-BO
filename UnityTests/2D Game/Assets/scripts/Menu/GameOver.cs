@@ -9,5 +9,6 @@ public class GameOver : MonoBehaviour
     {
         SceneManager.LoadScene(sceneName);
     }
+
     //met deze manier kan je via unity de scene kiezen waar je in laad
 }

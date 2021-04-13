@@ -15,11 +15,11 @@ D:/MediaCollege/bewijzenmap/Periode2.3/Arcade-Mechanics/UnityTests/2D Game
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-62489
+50963
 Successfully changed project path to: D:/MediaCollege/bewijzenmap/Periode2.3/Arcade-Mechanics/UnityTests/2D Game
 D:/MediaCollege/bewijzenmap/Periode2.3/Arcade-Mechanics/UnityTests/2D Game
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 580.46 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 66.92 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.5f1 (e2c53f129de5)
 [Subsystems] Discovering subsystems at path D:/UNITY/2020.2.5f1/Editor/Data/Resources/UnitySubsystems
@@ -35,5 +35,5 @@ Initialize mono
 Mono path[0] = 'D:/UNITY/2020.2.5f1/Editor/Data/Managed'
 Mono path[1] = 'D:/UNITY/2020.2.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/UNITY/2020.2.5f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56388
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56284
 Begin MonoManager ReloadAssembly

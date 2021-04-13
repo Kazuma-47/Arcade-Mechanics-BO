@@ -107,6 +107,8 @@
     <Compile Include="Assets\scripts\ModernGame\suicideenemy.cs" />
     <Compile Include="Assets\packs\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\packs\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
+    <Compile Include="Assets\scripts\ModernGame\enemyfire.cs" />
+    <Compile Include="Assets\scripts\ModernGame\wincheck.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\packs\TextMesh Pro\Shaders\TMPro.cginc" />

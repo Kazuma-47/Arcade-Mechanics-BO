@@ -15,6 +15,7 @@ public class GameManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        lives = 3;
         livesText.text = "Lives:" + lives;
     }
 
@@ -31,7 +32,8 @@ public class GameManager : MonoBehaviour
         //Debug.Log("Enemies left: " + enemies.Length);
         if(enemies.Length == 0)
         {
-            endScreen.text = "YOU WON!";
+            SceneManager.LoadScene("WINCLASSIC");
+            //endScreen.text = "YOU WON!";
         }
 
     }
