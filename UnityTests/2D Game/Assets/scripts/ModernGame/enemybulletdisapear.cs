@@ -17,5 +17,9 @@ public class enemybulletdisapear : MonoBehaviour
         {
             Destroy(ob);
         }
+        if (collisionInfo.collider.tag == "bullet")
+        {
+            Destroy(ob);
+        }
     }
 }

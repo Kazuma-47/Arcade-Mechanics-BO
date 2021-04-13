@@ -18,6 +18,7 @@ public class Projectile : MonoBehaviour
     {
         if(collision.gameObject.tag == "Enemy")
         {
+            ScoreScript.scoreValue += 1;
             Destroy(collision.gameObject);
             Destroy(projectile);
             GameManager.playGame = true;

@@ -63,6 +63,7 @@
     <Compile Include="Assets\packs\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
     <Compile Include="Assets\scripts\ModernGame\playerDeath.cs" />
     <Compile Include="Assets\packs\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
+    <Compile Include="Assets\scripts\ModernGame\wincheck.cs" />
     <Compile Include="Assets\scripts\Classic scripts\Enemy.cs" />
     <Compile Include="Assets\scripts\Classic scripts\GameManager.cs" />
     <Compile Include="Assets\packs\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
@@ -83,6 +84,7 @@
     <Compile Include="Assets\packs\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
     <Compile Include="Assets\packs\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
     <Compile Include="Assets\packs\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
+    <Compile Include="Assets\scripts\ModernGame\enemyfire.cs" />
     <Compile Include="Assets\packs\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
     <Compile Include="Assets\packs\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
     <Compile Include="Assets\packs\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
@@ -107,6 +109,7 @@
     <Compile Include="Assets\scripts\ModernGame\suicideenemy.cs" />
     <Compile Include="Assets\packs\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\packs\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
+    <Compile Include="Assets\scripts\Classic scripts\ScoreScript.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\packs\TextMesh Pro\Shaders\TMPro.cginc" />
