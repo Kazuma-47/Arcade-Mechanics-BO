@@ -8,6 +8,7 @@ public class MainMenu : MonoBehaviour
     public GameObject Optionmenu;
     public GameObject Mainmenu;
     public GameObject GameChoice;
+    public GameObject Controles;
     public void Play()
     {
         GameChoice.SetActive(true);
@@ -29,10 +30,29 @@ public class MainMenu : MonoBehaviour
         Mainmenu.SetActive(false);
         
     }
-    public void Back()
+    public void BackOptions()
     {
         Mainmenu.SetActive(true);
         Optionmenu.SetActive(false);
         
+    }
+    public void BackControls()
+    {
+        Mainmenu.SetActive(true);
+        Controles.SetActive(false);
+
+    }
+    public void BackChoiceMenu()
+    {
+        Mainmenu.SetActive(true);
+        GameChoice.SetActive(false);
+
+    }
+    public void Controls()
+    {
+        Controles.SetActive(true);
+        //GameObject.Find("OptionsMenu").active = true;
+        Mainmenu.SetActive(false);
+
     }
 }
